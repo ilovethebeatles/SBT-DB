@@ -33,6 +33,9 @@
 
    ![image](https://github.com/ilovethebeatles/SBT-DB/assets/106533857/7ae0aa7b-2ba7-4f65-b7fa-1709b10b45dc)
 
+9) Скачала html файл с фамилией, прислала в telegram
+    ![image](https://github.com/ilovethebeatles/SBT-DB/assets/106533857/ef98b362-2fde-457d-bba1-c6e182562714)
+
 
 
 
